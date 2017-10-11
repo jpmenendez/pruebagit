@@ -1,2 +1,2 @@
 # pruebagit
-Prueva
+Prueba
